@@ -1,6 +1,7 @@
 # buzzTube-Streamer
 # 🎮 BUZZTUBE — STREAMER CLICKER
 
+btw the Site is Ai the Full game is coded by python or Pygame
 **Build your streaming empire, become a legendary creator, and grow your channel from zero to millions of viewers!**
 
 BUZZTUBE — STREAMER CLICKER is a streamer simulation and clicker game where you start your streaming career, earn money, purchase upgrades, and expand your content creation setup.
